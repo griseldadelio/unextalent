@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "About Us": "Nosotros",
+    "Selection": "Selección",
+    "Assessment": "Evaluación",
+    "Training": "Capacitación",
+    "Contact": "Contacto",
+    "Language": "Idioma",
+    "spanish": "Español",
+    "english": "Inglés"
+  },
+  "VideoInner": {
+    "text1": "Permitete prosperar ",
+    "text2": "en un mundo cambiante"
+  },
+  "startTxt": {
+    "title": "PRESENCIA INTERNACIONAL",
+    "text": "Desde nuestras oficinas en Florida (USA), Buenos Aires (Argentina), San Pablo (Brasil), Pekin (China) desplegamos nuestros servicios a todo el mercado internacional, contando con una vasta red de prestadores, socios de negocios y colaboradores, quienes constituyen junto con nuestro equipo profesional estable el verdadero diferencial corporativo."
+  }
+}

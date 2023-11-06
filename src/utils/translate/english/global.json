@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "About Us": "Abut Us",
+    "Selection": "Selection",
+    "Assessment": "Assessment",
+    "Training": "Training",
+    "Contact": "Contact",
+    "Language": "Language",
+    "spanish": "Spanish",
+    "english": "English"
+  },
+  "VideoInner": {
+    "text1": "Enabling you to thrive in ",
+    "text2": "a changing world"
+  },
+  "startTxt": {
+    "title": "International Presence",
+    "text": "From our offices in Florida (USA), Buenos Aires (Argentina), Sao Paulo (Brazil), Beijing (China) we deploy our services to the entire international market, counting on a vast network of service providers, business partners and collaborators, who together with our stable professional team constitute the true corporate differential."
+  }
+}
