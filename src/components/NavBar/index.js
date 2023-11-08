@@ -25,25 +25,25 @@ export const NavBar = () => {
         fixed="top"
       >
         <Container>
-          <Navbar.Brand href="#home" className="ml-5">
+          <Navbar.Brand href="/" className="ml-5">
             <Logo />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mt-4 ms-5">
-              <Nav.Link href="/nosotros">
+              <Nav.Link href="/#nosotros">
                 <h4>{t('navbar.About Us')}</h4>
               </Nav.Link>
-              <Nav.Link href="/seleccion">
+              <Nav.Link href="/selection">
                 <h4>{t('navbar.Selection')}</h4>
               </Nav.Link>
-              <Nav.Link href="/evaluacion">
+              <Nav.Link href="/evaluation">
                 <h4>{t('navbar.Assessment')}</h4>
               </Nav.Link>
               <Nav.Link href="/capacitacion">
                 <h4>{t('navbar.Training')}</h4>
               </Nav.Link>
-              <Nav.Link href="#contacto">
+              <Nav.Link href="/#contacto">
                 <h4>{t('navbar.Contact')}</h4>
               </Nav.Link>
 
@@ -56,13 +56,17 @@ export const NavBar = () => {
                   onClick={() => i18n.changeLanguage('es')}
                   href="#/action-2"
                 >
-                  🇪🇸 &nbsp; {t('navbar.spanish')}
+                  <span role="img" aria-label="sp">
+                    🇪🇸 &nbsp; {t('navbar.spanish')}
+                  </span>
                 </NavDropdown.Item>
                 <NavDropdown.Item
                   onClick={() => i18n.changeLanguage('en')}
                   href="#/action-1"
                 >
-                  🇬🇧 &nbsp; {t('navbar.english')}
+                  <span role="img" aria-label="en">
+                    🇬🇧 &nbsp; {t('navbar.english')}
+                  </span>
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>

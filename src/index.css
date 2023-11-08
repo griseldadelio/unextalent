@@ -12,8 +12,11 @@ h1 {
   font-family: 'Poppins', 'Cabin';
 }
 
-p {
-  font-family: 'Poppins';
+p,
+li,
+h5,
+h6 {
+  font-family: 'Quicksand';
 }
 html,
 body {

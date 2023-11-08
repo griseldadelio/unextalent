@@ -1,5 +1,6 @@
+import React from 'react';
 import { Image } from 'react-bootstrap';
-import logo from '../../../assets/UnexTR.png';
+import logo from '../../assets/UnexTR.png';
 
 export const Logo = () => {
   return (

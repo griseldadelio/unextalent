@@ -1,0 +1,19 @@
+/* Card Image */
+.imgcard2 {
+  background-image: url('../../assets/financiamiento.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.lista-azul li {
+  list-style: none;
+}
+
+.lista-azul li::before {
+  content: '►';
+  color: rgb(117, 185, 62);
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  padding-right: 25px;
+}

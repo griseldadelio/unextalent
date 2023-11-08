@@ -13,8 +13,42 @@
     "text1": "Permitete prosperar ",
     "text2": "en un mundo cambiante"
   },
-  "startTxt": {
-    "title": "PRESENCIA INTERNACIONAL",
-    "text": "Desde nuestras oficinas en Florida (USA), Buenos Aires (Argentina), San Pablo (Brasil), Pekin (China) desplegamos nuestros servicios a todo el mercado internacional, contando con una vasta red de prestadores, socios de negocios y colaboradores, quienes constituyen junto con nuestro equipo profesional estable el verdadero diferencial corporativo."
+  "cardImg": {
+    "title": "NUESTRA METODOLOGÍA DE TRABAJO",
+    "item1": "Entendimiento del negocio y comprensión de la necesidad: definición de mercado target / perfil.",
+    "item2": "Diseño de estrategia de búsqueda.",
+    "item3": "Research del mercado definido. Screening / Mapeo de candidatos.",
+    "item4": "Proceso de entrevistas en profundidad. Evaluación por competencias.",
+    "item5": "Presentación de candidatos al cliente. Curriculum más informe de entrevista. ",
+    "item6": "Coordinación del proceso de entrevistas entre cliente y candidatos.",
+    "item7": "Reunión de Feedback / Puesta en común. Validación y ajustes. ",
+    "item8": "Evaluación de candidato finalista: referencias, psicotécnico, preocupacional, socioambiental.",
+    "item9": "Asistencia en cierre de acuerdo candidato – cliente.",
+    "item10": "Seguimiento posterior para evaluar satisfacción de candidato – cliente.",
+    "item11": "Transnacional"
+  },
+  "us": {
+    "title": "Nosotros",
+    "text1": "Somos una consultora de recursos humanos especializada en selección de personal y headhunting de todo tipo de perfiles. Trabajamos con organizaciones de diversa índole, envergadura e industria / sector. Los ayudamos a cubrir las necesidades de todas sus áreas. Nos destacamos por nuestra calidez y profesionalismo para encarar cada desafío.",
+    "text2": "Nuestra forma de trabajo personalizada y proactiva facilita el trabajo a nuestros clientes. Somos prácticos para encontrar a los mejores candidatos de forma rápida, eficiente y con costos competitivos. También ofrecemos soluciones en evaluación de personal y consultoría.",
+    "text3": "Cada selectora del equipo se especializa por industria y área funcional, para comprender la necesidad del cliente en detalle. El mercado cambia constantemente, y nosotros acompañamos ese cambio de manera dinámica e innovadora. Es nuestro objetivo brindar soluciones de excelencia a la medida de nuestros clientes."
+  },
+  "search": {
+    "title": "Búsqueda y Selección"
+  },
+  "desc": {
+    "title1": "EXECUTIVE SEARCH",
+    "text1": " Headhunting: somos un equipo de profesionales especializados en búsquedas Gerenciales, de Mandos Medios y Especialistas,",
+    " title2": "RECRUITMENT SERVICES",
+    "text2": "Definición del perfil. Estudio y análisis del mercado.Reclutamiento de candidatos.Monitoreo de la evolución de los profesionales seleccionados",
+    "title3": "IT RECRUITING"
+  },
+  "evaluation": {
+    "title1": "Assessment Center",
+    "text1": " El Assessment Center es una técnica de evaluación grupal que permite conocer las capacidades, habilidades, actitudes y conocimientos de los participantes. Se diseñan actividades de negociación, interacción, liderazgo, juegos y otras dinámicas grupales, a medida de cada requerimiento.",
+    "title2": "Test Psicotécnicos",
+    "text2": "El Psicotécnico incluye un conjunto de técnicas de evaluación individual que permite indagar en profundidad los lineamientos estructurales de la personalidad y las aptitudes de los candidatos. Utilizamos: Tests Psicométricos (Raven, DISC), Test Neuropsicológico (Bender), Tests Proyectivos (HTP, Persona Bajo la Lluvia, Cuestionario Desiderativo, Rorschach, Zulliger).",
+    "title3": "Evaluación de competencias",
+    "text3": "Evaluación de Competencias (DISC, Trimetrix). Mediante un formulario online y en forma inmediata, se obtiene información sobre el estilo personal de conducta del individuo. Se combinan los Assessments de conductas, valores y competencias – habilidades de talento personal para determinar cómo se comportará una persona, por qué se comportará de esa manera y qué es capaz de hacer."
   }
 }
