@@ -31,7 +31,7 @@
 }
 
 /* Bootstrap Button */
-.btn {
+/* .btn {
   border-radius: none !important;
   width: 200px;
   height: 50px;
@@ -54,4 +54,4 @@
 .btn-green:hover {
   background-color: rgb(148, 211, 65);
   border-color: rgb(75, 155, 9);
-}
+} */

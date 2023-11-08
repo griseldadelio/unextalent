@@ -6,7 +6,7 @@ import './footer.css';
 
 export const Footer = () => {
   return (
-    <footer id="contacto">
+    <footer id="contact">
       <Container className="main-footer  text-center">
         <Row>
           <Col className="mb-3">
@@ -26,7 +26,7 @@ export const Footer = () => {
           </Col>
           <Col>
             <div className="pt-2">
-              <Icon.Whatsapp />
+              <Icon.Whatsapp color="#0f9948" />
               <a
                 href="https://api.whatsapp.com/send?phone=549111165109632&text=Hola Unex Talent, necesito más información!"
                 target="blank"

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button } from 'react-bootstrap';
+// import { Button } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
 import './videoInner.css';
 
@@ -22,14 +22,14 @@ export const VideoInner = () => {
           {t('VideoInner.text1')}
           <div>{t('VideoInner.text2')}</div>
         </div>
-        <div className="mt-4">
+        {/* <div className="mt-4">
           <Button className="btn-green" variant="outline-light">
             <h4>Serch</h4>
           </Button>
           <Button className="btn-white ms-5" variant="outline-light">
             <h4>Selection</h4>
           </Button>
-        </div>
+        </div> */}
       </div>
     </div>
   );

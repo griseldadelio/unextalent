@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next';
 export const AboutUs = () => {
   const [t] = useTranslation('global');
   return (
-    <div id="nosotros">
+    <div id="us">
       <Container>
         <Row className="p-5">
           <h1 className="m-4">{t('us.title')}</h1>

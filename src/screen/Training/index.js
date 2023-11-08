@@ -4,7 +4,7 @@ import { ImageInner } from '../../components/ImageInner';
 import { Description } from '../../components/Description';
 import { useTranslation } from 'react-i18next';
 
-export const Evaluation = ({
+export const Training = ({
   title,
   title1,
   text1,
@@ -15,14 +15,14 @@ export const Evaluation = ({
   bg,
 }) => {
   const [t] = useTranslation('global');
-  title = t('evaluation.title');
-  title1 = t('evaluation.title1');
-  title2 = t('evaluation.title2');
-  title3 = t('evaluation.title3');
-  text1 = t('evaluation.text1');
-  text2 = t('evaluation.text2');
-  text3 = t('evaluation.text3');
-  bg = 'bg-image-evaluation ';
+  title = t('training.title');
+  title1 = t('training.title1');
+  title2 = t('training.title2');
+  title3 = t('training.title3');
+  text1 = t('training.text1');
+  text2 = t('training.text2');
+  text3 = t('training.text3');
+  bg = 'bg-image-training ';
 
   return (
     <Layout>

@@ -23,3 +23,66 @@ body {
   max-width: 100% !important;
   overflow-x: hidden !important;
 }
+.bg-image-search {
+  background-image: url('./assets/search.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+}
+.bg-image-search::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.bg-image-training {
+  background-image: url('./assets/training.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+}
+.bg-image-training::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.bg-image-evaluation {
+  background-image: url('./assets/evaluation.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+}
+.bg-image-evaluation::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.card {
+  border: none !important;
+  background-color: transparent !important;
+  color: white !important;
+  font-size: large;
+  min-height: 600px !important;
+  padding-top: 25px !important;
+}

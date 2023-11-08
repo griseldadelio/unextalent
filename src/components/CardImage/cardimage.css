@@ -1,6 +1,6 @@
 /* Card Image */
 .imgcard2 {
-  background-image: url('../../assets/financiamiento.jpeg');
+  background-image: url('../../assets/asesoria.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,7 +11,7 @@
 
 .lista-azul li::before {
   content: '►';
-  color: rgb(117, 185, 62);
+  color: black;
   display: inline-block;
   width: 1em;
   margin-left: -1em;

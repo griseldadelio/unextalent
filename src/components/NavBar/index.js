@@ -31,7 +31,7 @@ export const NavBar = () => {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mt-4 ms-5">
-              <Nav.Link href="/#nosotros">
+              <Nav.Link href="/#us">
                 <h4>{t('navbar.About Us')}</h4>
               </Nav.Link>
               <Nav.Link href="/selection">
@@ -40,10 +40,10 @@ export const NavBar = () => {
               <Nav.Link href="/evaluation">
                 <h4>{t('navbar.Assessment')}</h4>
               </Nav.Link>
-              <Nav.Link href="/capacitacion">
+              <Nav.Link href="/training">
                 <h4>{t('navbar.Training')}</h4>
               </Nav.Link>
-              <Nav.Link href="/#contacto">
+              <Nav.Link href="/#contact">
                 <h4>{t('navbar.Contact')}</h4>
               </Nav.Link>
 
