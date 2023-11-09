@@ -1,5 +1,4 @@
 import React from 'react';
-import AOS from 'aos';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import { Home } from './screen/Home';
 import { Selection } from './screen/Selection';
@@ -9,7 +8,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'aos/dist/aos.css';
 
 const App = () => {
-  AOS.init();
   return (
     <BrowserRouter>
       <Switch>
